@@ -8,9 +8,15 @@ public class SeleniumTest {
 	public void BrowserAutomation() 
 	{
 		System.out.println("BrowserAutomation");
+		System.out.println("Web Automation");
 	}
 	@Test
 	public  void ElementUi() 
+	{
+	System.out.println("elementtUi");
+	}
+	@Test
+	public  void ElementUi1() 
 	{
 	System.out.println("elementtUi");
 	}
